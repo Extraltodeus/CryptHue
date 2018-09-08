@@ -21,7 +21,6 @@ The variable "varia" is the min/max range of percentage variation. The default i
 
 ## Dependancy
 You will need the following package :
-
 https://github.com/quentinsf/qhue 
 
 Or install it from pip :
