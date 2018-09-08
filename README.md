@@ -18,3 +18,10 @@ The variable "loopTime" is the refresh time in seconds (5 minutes by default).
 
 
 The variable "varia" is the min/max range of percentage variation. The default is 5%. Which means that you will get a full green at 5% and a full red at -5%. Everything in between will give an in between color.
+
+## Dependancy
+You will need the following package :
+https://github.com/quentinsf/qhue 
+
+Or install it from pip :
+pip install qhue
