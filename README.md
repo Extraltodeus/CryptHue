@@ -3,12 +3,13 @@
 ## How to use it
 
 Simply replace the following arguments by your bridge local IP address and hashed username :
+
 b = Bridge("bride_ip_address_here", "hashed_valid_username_here").lights
 
 Select the lamp by modifying the variable "lampe" at line 9
 
 The variable "CMCid" is the ID of the crypto that you wish to follow. You can find the ID here :
-https://api.coinmarketcap.com/v2/ticker/
+https://api.coinmarketcap.com/v2/ticker/ 
 
 The variable "loopTime" is the refresh time in seconds (5 minutes by default).
 
