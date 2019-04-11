@@ -6,7 +6,7 @@ from qhue import Bridge
 
 b = Bridge("bride_ip_address_here", "hashed_valid_username_here").lights
 url = 'https://api.coinmarketcap.com/v2/ticker/'
-lampe = 8
+lampe = 8 # light id number
 varia = 5
 loopTime = 300
 CMCid = 1975  #This ID is for Chainlink, put 1 if you want Bitcoin
