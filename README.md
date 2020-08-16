@@ -1,5 +1,7 @@
 # CryptHue
 
+NOTE : The coinmarketcap API is not availaible anymore. This script will not work. Sorry folks.
+
 ## How to use it
 
 Simply replace the following arguments by your bridge local IP address and hashed username :
